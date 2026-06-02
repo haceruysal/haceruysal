@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/hacer-uysal/">Hacer Uysal</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m passionate about systems security and love tackling technical challenges through hands-on troubleshooting. From implementing endpoint security configurations to resolving vulnerabilities and isolating network faults, I thrive on diving deep into the infrastructure to keep systems secure and running smoothly. Please feel free to check out my projects to see the work I’ve put into optimizing system uptime, streamlining ticket resolution, and enhancing daily IT operations! I'm still putting more projects up there, so definitely keep an eye out for new ones coming very soon!
 
 [linkedin]: https://linkedin.com/in/hacer-uysal/
 
