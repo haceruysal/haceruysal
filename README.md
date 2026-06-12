@@ -19,7 +19,7 @@ I’m passionate about systems security and love tackling technical challenges t
 *   **[DawgDealz: Mobile Campus Marketplace App](https://github.com/haceruysal/DawgDealz)** 
     *   *Summary:* A secure, cross-platform mobile marketplace application tailored for university communities to mitigate the security and fraud risks inherent in traditional peer-to-peer platforms.
     *   *Key Highlights:* Developed in **Flutter** and integrated with **Firebase Auth** for robust identity verification. Utilized **Cloud Firestore** for secure, real-time database updates and persistence, **Firebase Storage** for media uploads, and structured architecture using the **Provider** state management pattern.
-[linkedin]: https://linkedin.com/in/hacer-uysal/
+
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
