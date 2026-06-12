@@ -4,20 +4,21 @@ I’m passionate about systems security and love tackling technical challenges t
 
 ## 🚀 Active Projects
 
-### 🔍 [Network Discovery & Asset Management Scan (Tenable & Azure)](https://github.com/haceruysal/Network-Discovery-Scan/blob/main/README.md)
-*   **Overview:** Implemented a host discovery lifecycle to identify active devices across private corporate network ranges (e.g., `10.0.0.0/8`), ensuring an accurate hardware inventory and uncovering unauthorized, unregistered, or rogue services
-*   **Core Tasks:** Deployed a **Tenable Nessus** scanner on a Microsoft Azure virtual network/subnet to run host discovery scans, ping assets, and map out the environment's baseline infrastructure.
-*   **Incident Response & Remediation Workflow:** Established a strict triage methodology for newly discovered assets:
-    *   **Classify & Assign:** Investigate ownership, business purpose, and systemic criticality while mapping assets to ongoing vulnerability schedules.
-    *   **Isolate Rogue Devices:** Disconnect unmanaged, zero-owner devices from the network immediately to prevent unauthorized access and flush out unlisted users.
-*   **IT Support & Infrastructure Relevance:** Directly mirrors the responsibilities of a campus technician managing enterprise assets. Highlights hands-on experience with network troubleshooting (IP routing, subnetting), inventory lifecycle auditing, and executing security protocols to protect local campus endpoints.
+### ⚠️ Vulnerability Management & GRC Projects
 
-### 📱 [DawgDealz: Mobile Campus Marketplace App](https://github.com/haceruysal/DawgDealz)
-*   **Overview:** Developed a cross-platform Flutter application tailored for university students to buy and sell items within a trusted campus community, mitigating the security and locality risks of traditional platforms.
-*   **Core Systems & Cloud Integration:** Integrated **Firebase Auth** for user account management, **Cloud Firestore** for secure data persistence (user profiles, item structures, and preferred campus safety meetup spots), and **Firebase Storage** for media uploads.
-*   **Technical Implementation:** Designed structured data models (User/Item collections) using state management (`provider`) to handle real-time database updates and implemented UI workflows for profile management and listings.
-*   **IT Support & Infrastructure Relevance:** Demonstrates a deep understanding of mobile operating systems (iOS/Android deployment), database architecture (CRUD operations), identity verification controls, and integrating cloud services with user-facing applications.
+*   **[Vulnerability Management Program Implementation](https://github.com/haceruysal/Vulnerability-Management-Program-Implementation)** 
+    *   *Summary:* A full lifecycle enterprise simulation transitioning an organization from zero security controls to an **81% reduction in overall risk** across a 200-server architecture.
+    *   *Key Highlights:* Drafted official corporate risk policies, simulated stakeholder alignment and Change Control Board (CAB) reviews, orchestrated authenticated **Tenable Nessus** scans, and developed **PowerShell/BASH** scripts to automate remediations (SMB signing, NLA enforcement, local Guest account administrative privilege removal, and LAN Manager authentication hardening).
 
+*   **[Network Discovery & Asset Management Scan (Tenable & Azure)](https://github.com/haceruysal/Network-Discovery-Scan/blob/main/README.md)** 
+    *   *Summary:* Implementation of a host discovery lifecycle to eliminate blind spots, maintain a rigorous hardware inventory, and map a cloud-hosted infrastructure baseline.
+    *   *Key Highlights:* Deployed a **Tenable Nessus** scanner within an **Azure** virtual network subnet to map active ranges (e.g., `10.0.0.0/8`). Established a strict triage methodology to classify newly discovered assets by business purpose and system criticality, creating operational playbooks to isolate rogue or unmanaged devices.
+
+### 📱 Software Engineering & Cloud Systems
+
+*   **[DawgDealz: Mobile Campus Marketplace App](https://github.com/haceruysal/DawgDealz)** 
+    *   *Summary:* A secure, cross-platform mobile marketplace application tailored for university communities to mitigate the security and fraud risks inherent in traditional peer-to-peer platforms.
+    *   *Key Highlights:* Developed in **Flutter** and integrated with **Firebase Auth** for robust identity verification. Utilized **Cloud Firestore** for secure, real-time database updates and persistence, **Firebase Storage** for media uploads, and structured architecture using the **Provider** state management pattern.
 [linkedin]: https://linkedin.com/in/hacer-uysal/
 
 <!--
