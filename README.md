@@ -12,7 +12,7 @@ With a strong foundation in cloud ecosystems, data analysis, and technical docum
 | :--- | :--- |
 | **Data & Observability** | SQL, Excel, Azure Sentinel, KQL, Log Analytics |
 | **Cloud Infrastructure** | Microsoft Azure (Entra ID, Monitor, Arc), Hybrid IT, Core Networking |
-| **Automation & Scripting** | PowerShell, Bash, Python, API Integrations, XML Parsing |
+| **Automation & Scripting** | PowerShell, Bash, Python |
 | **Operations & Agile** | Jira, Confluence, Scrum/Agile Methodologies, Technical Documentation |
 
 ---
