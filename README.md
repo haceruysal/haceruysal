@@ -1,27 +1,48 @@
-# <a href="https://www.linkedin.com/in/hacer-uysal/">Hacer Uysal</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Hacer Uysal's Technical Solutions & Infrastructure Portfolio 🚀
 
-I’m passionate about systems security and love tackling technical challenges through hands-on troubleshooting. From implementing endpoint security configurations to resolving vulnerabilities and isolating network faults, I thrive on diving deep into the infrastructure to keep systems secure and running smoothly. Please feel free to check out my projects to see the work I’ve put into optimizing system uptime, streamlining ticket resolution, and enhancing daily IT operations! I'm still putting more projects up there, so definitely keep an eye out for new ones coming very soon!
+I am a Technical Solutions Analyst and Computer Science graduate passionate about optimizing cloud infrastructure uptime, analyzing complex datasets, and streamlining system operations. I thrive on diving deep into technical logs to isolate the root causes of service disruptions, coordinating cross-functional remediation efforts, and engineering automation scripts to resolve chronic issues. 
 
-## 🚀 Active Projects
+With a strong foundation in cloud ecosystems, data analysis, and technical documentation, I specialize in transforming high-volume operational telemetry into clear, actionable business insights.
 
-### ⚠️ Vulnerability Management & GRC Projects
+---
 
-*   **[Vulnerability Management Program Implementation](https://github.com/haceruysal/Vulnerability-Management-Program-Implementation)** 
-    *   *Summary:* A full lifecycle enterprise simulation transitioning an organization from zero security controls to an **81% reduction in overall risk** across a 200-server architecture.
-    *   *Key Highlights:* Drafted official corporate risk policies, simulated stakeholder alignment and Change Control Board (CAB) reviews, orchestrated authenticated **Tenable Nessus** scans, and developed **PowerShell/BASH** scripts to automate remediations (SMB signing, NLA enforcement, local Guest account administrative privilege removal, and LAN Manager authentication hardening).
+## 🛠️ Technical Ecosystem & Tooling
 
-*   **[Network Discovery & Asset Management Scan (Tenable & Azure)](https://github.com/haceruysal/Network-Discovery-Scan/blob/main/README.md)** 
-    *   *Summary:* Implementation of a host discovery lifecycle to eliminate blind spots, maintain a rigorous hardware inventory, and map a cloud-hosted infrastructure baseline.
-    *   *Key Highlights:* Deployed a **Tenable Nessus** scanner within an **Azure** virtual network subnet to map active ranges (e.g., `10.0.0.0/8`). Established a strict triage methodology to classify newly discovered assets by business purpose and system criticality, creating operational playbooks to isolate rogue or unmanaged devices.
+| Domain | Technologies & Platforms |
+| :--- | :--- |
+| **Data & Observability** | SQL, Excel, Azure Sentinel, KQL, Log Analytics |
+| **Cloud Infrastructure** | Microsoft Azure (Entra ID, Monitor, Arc), Hybrid IT, Core Networking |
+| **Automation & Scripting** | PowerShell, Bash, Python, API Integrations, XML Parsing |
+| **Operations & Agile** | Jira, Confluence, Scrum/Agile Methodologies, Technical Documentation |
 
-### 📱 Software Engineering & Cloud Systems
+---
 
-*   **[DawgDealz: Mobile Campus Marketplace App](https://github.com/haceruysal/DawgDealz)** 
-    *   *Summary:* A secure, cross-platform mobile marketplace application tailored for university communities to mitigate the security and fraud risks inherent in traditional peer-to-peer platforms.
-    *   *Key Highlights:* Developed in **Flutter** and integrated with **Firebase Auth** for robust identity verification. Utilized **Cloud Firestore** for secure, real-time database updates and persistence, **Firebase Storage** for media uploads, and structured architecture using the **Provider** state management pattern.
+## 📋 Featured Enterprise Operational Projects
 
+### 📊 [Cloud Observability & Live Operational Data Visualization](https://github.com/haceruysal/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization)
+* **Objective:** Maintained 360-degree observability across a complex cloud environment by aggregating, parsing, and analyzing high-volume, unstructured log streams.
+* **Data Analysis & Visuals:** Utilized KQL (Kusto Query Language) to flatten complex nested JSON payloads and built interactive, user-friendly dashboards to map anomalies and track infrastructure modifications.
+* **Business Impact:** Successfully isolated distributed service friction and automated conditional alerts, providing support personnel with clear, concise support documentation to accelerate issue investigation times.
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+### ⚙️ [Programmatic Infrastructure Optimization & Remediation](https://github.com/haceruysal/programmatic-vulnerability-remediation)
+* **Objective:** Applied foundational infrastructure knowledge to execute an automated system-hardening framework targeting standalone virtual machine environments.
+* **Automation & Scripting:** Engineered advanced, reusable PowerShell scripts to identify known patterns, eliminate system configuration drift, and programmatically remediate 10 distinct high-value operational risk points.
+* **Testing & Guardrails:** Developed and validated tiered automated rollback procedures to ensure system integrity, minimize downstream operational disruptions, and maintain business area standards.
+
+### 🔐 [Hybrid Cloud Access Management & Identity Governance](https://github.com/haceruysal/Security-Pro---Manage-identity-security-for-AI-with-Entra)
+* **Objective:** Designed a modern, centralized identity framework to secure a hybrid infrastructure spanning on-premises data centers and cloud-hosted environments.
+* **Problem Resolution:** Mitigated remote access vulnerabilities by replacing legacy VPN architectures with granular, adaptive access controls (Microsoft Entra Suite) to eliminate lateral network movement risks.
+* **Process Improvement:** Standardized cross-boundary workflows by mapping complex regulatory standards (HIPAA/HITRUST) directly onto automated operational guardrails, ensuring comprehensive audit-ready compliance visibility.
+
+### 📉 [Whole-System Operational Baseline & Capacity Analysis](https://github.com/haceruysal/Vulnerability-Management-Program-Implementation)
+* **Objective:** Orchestrated a comprehensive system analysis to transition a medium-sized infrastructure (200+ servers) from an unmonitored status to an optimized, policy-driven baseline.
+* **Stakeholder Coordination:** Led cross-functional collaboration efforts between infrastructure teams, asset owners, and Change Control Boards (CAB) to align technical maintenance windows with core business goals.
+* **Measurable Results:** Successfully translated historical performance metrics and automated scan data into a **total risk reduction of 81%** across the enterprise deployment tier.
+
+---
+
+## 🤝 Cross-Functional Capabilities
+
+* **Translation of Complex Data:** Adept at analyzing complex technical data using statistical methods and filtering out distracting data noise to present clear, accessible summaries for non-technical stakeholders.
+* **Documentation & Standards:** Passionate about authoring clear, structured support documentation, deployment guidelines, and standard operating procedures to empower multi-level support teams.
+* **Adaptability & Agile Growth:** Highly efficient working within fast-paced Scrum/Agile environments, collaborating daily via Jira and Confluence to solve collective bottlenecks and continuously improve operational workflows.
