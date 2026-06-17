@@ -34,7 +34,7 @@ With a strong foundation in cloud ecosystems, data analysis, and technical docum
 * **Problem Resolution:** Mitigated remote access vulnerabilities by replacing legacy VPN architectures with granular, adaptive access controls (Microsoft Entra Suite) to eliminate lateral network movement risks.
 * **Process Improvement:** Standardized cross-boundary workflows by mapping complex regulatory standards (HIPAA/HITRUST) directly onto automated operational guardrails, ensuring comprehensive audit-ready compliance visibility.
 
-### 📉 [Whole-System Operational Baseline & Capacity Analysis](https://github.com/haceruysal/Vulnerability-Management-Program-Implementation)
+### 📉 [Vulnerability Management Program Implementation](https://github.com/haceruysal/Vulnerability-Management-Program-Implementation)
 * **Objective:** Orchestrated a comprehensive system analysis to transition a medium-sized infrastructure (200+ servers) from an unmonitored status to an optimized, policy-driven baseline.
 * **Stakeholder Coordination:** Led cross-functional collaboration efforts between infrastructure teams, asset owners, and Change Control Boards (CAB) to align technical maintenance windows with core business goals.
 * **Measurable Results:** Successfully translated historical performance metrics and automated scan data into a **total risk reduction of 81%** across the enterprise deployment tier.
