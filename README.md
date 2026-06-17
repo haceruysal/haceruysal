@@ -22,7 +22,6 @@ With a strong foundation in cloud ecosystems, data analysis, and technical docum
 ### 📊 [Cloud Observability & Live Operational Data Visualization](https://github.com/haceruysal/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization)
 * **Objective:** Maintained 360-degree observability across a complex cloud environment by aggregating, parsing, and analyzing high-volume, unstructured log streams.
 * **Data Analysis & Visuals:** Utilized KQL (Kusto Query Language) to flatten complex nested JSON payloads and built interactive, user-friendly dashboards to map anomalies and track infrastructure modifications.
-* **Business Impact:** Successfully isolated distributed service friction and automated conditional alerts, providing support personnel with clear, concise support documentation to accelerate issue investigation times.
 
 ### ⚙️ [Programmatic Infrastructure Optimization & Remediation](https://github.com/haceruysal/programmatic-vulnerability-remediation)
 * **Objective:** Applied foundational infrastructure knowledge to execute an automated system-hardening framework targeting standalone virtual machine environments.
