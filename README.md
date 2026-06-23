@@ -6,17 +6,6 @@ With a strong foundation in cloud ecosystems, data analysis, and technical docum
 
 ---
 
-## 🛠️ Technical Ecosystem & Tooling
-
-| Domain | Technologies & Platforms |
-| :--- | :--- |
-| **Data & Observability** | SQL, Excel, Azure Sentinel, KQL, Log Analytics |
-| **Cloud Infrastructure** | Microsoft Azure (Entra ID, Monitor, Arc), Hybrid IT, Core Networking |
-| **Automation & Scripting** | PowerShell, Bash, Python |
-| **Operations & Agile** | Jira, Confluence, Scrum/Agile Methodologies, Technical Documentation |
-
----
-
 ## 📋 Featured Enterprise Operational Projects
 
 ### 📊 [Cloud Observability & Live Operational Data Visualization](https://github.com/haceruysal/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization)
